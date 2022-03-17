@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EstateApp.Models;
+using EstateApp.Web.Models;
 
-namespace EstateApp.Controllers;
+namespace EstateApp.Web.Controllers;
 
 public class HomeController : Controller
 {
